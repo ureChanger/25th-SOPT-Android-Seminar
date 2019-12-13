@@ -1,2 +1,2 @@
-# sopt_semina_2_webtoon
-sopt semina2 homework_webtoon
+# SOPT-Semina2-Webtoon
+SOPT Semina2 assignment Webtoon
